@@ -1,0 +1,25 @@
+{
+  "name": "embawood",
+  "version": "1.0.0",
+  "description": "React App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afa1992/embawood.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afa1992/embawood/issues"
+  },
+  "homepage": "https://github.com/afa1992/embawood#readme",
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "pretty-quick": "^3.1.3"
+  }
+}
